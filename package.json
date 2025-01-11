@@ -1,0 +1,15 @@
+{
+  "name": "discord-ntfy-relay",
+  "version": "1.0.0",
+  "description": "relay messages from Discord to a selfhosted ntfy instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "dependencies": {
+    "discord-gateways": "^1.0.2",
+    "node-fetch": "^3.3.2"
+  }
+}
